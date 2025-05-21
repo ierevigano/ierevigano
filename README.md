@@ -1,6 +1,7 @@
 # Olá, sou o Ierê e esse é o meu perfil
 <div align="center">
 <img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/refs/heads/main/assets/rainbow-superthin.webp">
+  <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ierevigano&layout=pie&langs_count=16&theme=dark">
 
 <div align="center">
