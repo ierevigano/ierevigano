@@ -1,17 +1,18 @@
-#      Olá, sou o Ierê e esse é o meu perfil
+# Olá, sou o Ierê e esse é o meu perfil
 <div align="center">
 <img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/refs/heads/main/assets/rainbow-superthin.webp">
   <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ierevigano&layout=pie&langs_count=16&theme=dark">
 <br>
   <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ierevigano&theme=default&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=ierevigano&theme=dark&show_icons=true">
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/refs/heads/main/assets/rainbow-superthin.webp">
 <div align="center">
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
 
+# 🤫 Estou em estudando
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/refs/heads/main/assets/rainbow-superthin.webp">
