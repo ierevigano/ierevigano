@@ -3,8 +3,9 @@
 <img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/refs/heads/main/assets/rainbow-superthin.webp">
   <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ierevigano&layout=pie&langs_count=16&theme=dark">
-<HEAD></HEAD>
+<HEAD>
 [![card](https://github-readme-stats.vercel.app/api?username=ierevigano&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</HEAD>
 <div align="center">
 <img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/refs/heads/main/assets/rainbow-superthin.webp">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
