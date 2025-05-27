@@ -27,6 +27,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
 
 <div>
+  <br>
   <p>Se isto fosse um site dos anos 90 você veria um contador de visitantes parecido com este aqui:</p>
   
   <img
