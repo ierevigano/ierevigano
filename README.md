@@ -28,7 +28,8 @@
 
 <div>
   <br>
-  <p>Se isto fosse um site dos anos 90 você veria um contador de visitantes parecido com este aqui:</p>
+  <p>Se isto fosse um site dos anos 90 você veria um contador de visitantes parecido com este aqui:
+  </p>
   
   <img
     src="https://profile-counter.glitch.me/ierevigano/count.svg"
