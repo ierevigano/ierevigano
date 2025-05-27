@@ -1,4 +1,7 @@
+<div align="center">
+
 # Olá, sou o Ierê e esse é o meu perfil
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/refs/heads/main/assets/rainbow-superthin.webp">
   <br>
