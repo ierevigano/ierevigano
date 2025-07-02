@@ -44,6 +44,8 @@
 
 <img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/refs/heads/main/assets/rainbow-superthin.webp">
 
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ierevigano/ierevigano/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ierevigano/ierevigano/output/pacman-contribution-graph.svg">
