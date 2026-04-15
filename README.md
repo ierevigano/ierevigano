@@ -7,7 +7,7 @@
 <!-- <img src=""> -->
   <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ierevigano&layout=pie&langs_count=16&theme=dark&hide=ShaderLab,hlsl">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ierevigano&layout=pie&langs_count=16&theme=dark&hide=ShaderLab,hlsl&show_icons=true">
 
   <br>
 
